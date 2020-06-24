@@ -6,12 +6,18 @@
     //$pass = '';
     //$charset = 'utf8mb4';
 
-    //remote database connection
-   $host = 'localhost';
-    $db = 'attendance_db';
-    $user = 'root';
-    $pass = '';
-    $charset = 'utf8mb4';
+   //remote database connection
+   // $host = 'localhost';
+    // $db = 'attendance_db';
+     //$user = 'root';
+     //$pass = '';
+    // $charset = 'utf8mb4';
+
+ $host = 'remotemysql.com';
+$db = 'FCEXu7zaB6';
+    $user = 'FCEXu7zaB6';
+    $pass = 'nfpdVL4wJt';
+ $charset = 'utf8mb4';
 
 
 
